@@ -22,7 +22,7 @@ namespace LB_5 {
                     x += h;
                 }
             }
-            catch (Exception e) { //jeBac System, jeBac Arasaka...
+            catch (Exception e) {
             }
         }
     }
